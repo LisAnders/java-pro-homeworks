@@ -1,5 +1,6 @@
 rootProject.name = "JavaProHomeworks"
 include("L01-gradle")
+include("L04-generics")
 
 
 pluginManagement {
